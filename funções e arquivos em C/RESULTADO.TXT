@@ -1,0 +1,1 @@
+O conteudo da variavel k eh: 1234

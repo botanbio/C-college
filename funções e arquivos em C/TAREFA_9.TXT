@@ -1,0 +1,100 @@
+  2 vale o dobro de   1
+  4 vale o dobro de   2
+  6 vale o dobro de   3
+  8 vale o dobro de   4
+ 10 vale o dobro de   5
+ 12 vale o dobro de   6
+ 14 vale o dobro de   7
+ 16 vale o dobro de   8
+ 18 vale o dobro de   9
+ 20 vale o dobro de  10
+ 22 vale o dobro de  11
+ 24 vale o dobro de  12
+ 26 vale o dobro de  13
+ 28 vale o dobro de  14
+ 30 vale o dobro de  15
+ 32 vale o dobro de  16
+ 34 vale o dobro de  17
+ 36 vale o dobro de  18
+ 38 vale o dobro de  19
+ 40 vale o dobro de  20
+ 42 vale o dobro de  21
+ 44 vale o dobro de  22
+ 46 vale o dobro de  23
+ 48 vale o dobro de  24
+ 50 vale o dobro de  25
+ 52 vale o dobro de  26
+ 54 vale o dobro de  27
+ 56 vale o dobro de  28
+ 58 vale o dobro de  29
+ 60 vale o dobro de  30
+ 62 vale o dobro de  31
+ 64 vale o dobro de  32
+ 66 vale o dobro de  33
+ 68 vale o dobro de  34
+ 70 vale o dobro de  35
+ 72 vale o dobro de  36
+ 74 vale o dobro de  37
+ 76 vale o dobro de  38
+ 78 vale o dobro de  39
+ 80 vale o dobro de  40
+ 82 vale o dobro de  41
+ 84 vale o dobro de  42
+ 86 vale o dobro de  43
+ 88 vale o dobro de  44
+ 90 vale o dobro de  45
+ 92 vale o dobro de  46
+ 94 vale o dobro de  47
+ 96 vale o dobro de  48
+ 98 vale o dobro de  49
+100 vale o dobro de  50
+102 vale o dobro de  51
+104 vale o dobro de  52
+106 vale o dobro de  53
+108 vale o dobro de  54
+110 vale o dobro de  55
+112 vale o dobro de  56
+114 vale o dobro de  57
+116 vale o dobro de  58
+118 vale o dobro de  59
+120 vale o dobro de  60
+122 vale o dobro de  61
+124 vale o dobro de  62
+126 vale o dobro de  63
+128 vale o dobro de  64
+130 vale o dobro de  65
+132 vale o dobro de  66
+134 vale o dobro de  67
+136 vale o dobro de  68
+138 vale o dobro de  69
+140 vale o dobro de  70
+142 vale o dobro de  71
+144 vale o dobro de  72
+146 vale o dobro de  73
+148 vale o dobro de  74
+150 vale o dobro de  75
+152 vale o dobro de  76
+154 vale o dobro de  77
+156 vale o dobro de  78
+158 vale o dobro de  79
+160 vale o dobro de  80
+162 vale o dobro de  81
+164 vale o dobro de  82
+166 vale o dobro de  83
+168 vale o dobro de  84
+170 vale o dobro de  85
+172 vale o dobro de  86
+174 vale o dobro de  87
+176 vale o dobro de  88
+178 vale o dobro de  89
+180 vale o dobro de  90
+182 vale o dobro de  91
+184 vale o dobro de  92
+186 vale o dobro de  93
+188 vale o dobro de  94
+190 vale o dobro de  95
+192 vale o dobro de  96
+194 vale o dobro de  97
+196 vale o dobro de  98
+198 vale o dobro de  99
+200 vale o dobro de 100
